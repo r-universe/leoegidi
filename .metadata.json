@@ -1,0 +1,10 @@
+[
+  {
+    "package": "footBayes",
+    "oncran": true
+  },
+  {
+    "package": "pivmet",
+    "oncran": true
+  }
+]
